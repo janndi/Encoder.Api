@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fANFwFWxjzFReGRDL04dshFMUyJgygORkW+Y9NF05XtULC26pK7uhrvkLg8zpbBcqFPodLu8D/RA2whLUJ84iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jann\\OneDrive\\Desktop\\RCG\\Encoder.Api\\Api.Models\\Api.Models.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://edibase.lumibay.se/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
